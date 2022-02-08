@@ -20,7 +20,7 @@ llista2_ordedata_desc = [
     {"alumne": "Maria Debe", "data_naiximent": "10-02-1998"}
 ]
 
-llista2_ordenada_per_data_naix_asc = [
+llista2_ordenada_per_data_naix_desc = [
     {"alumne": "Maria Debe", "data_naiximent": "10-02-1998"},
     {"alumne": "Juan Gris", "data_naiximent": "10-02-2000"},
     {"alumne": "Manolo Mata", "data_naiximent": "09-02-2008"}
